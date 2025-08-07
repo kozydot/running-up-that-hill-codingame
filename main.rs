@@ -1,3 +1,5 @@
+// https://www.codingame.com/ide/puzzle/running-up-that-hill
+
 use std::io;
 
 macro_rules! parse_input {
